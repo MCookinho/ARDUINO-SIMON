@@ -1,5 +1,5 @@
 # SIMON GAME IN ARDUINO
-- The GENIUS or SIMON game maded in the microprocessor "Arduino"
+- The GENIUS or SIMON game made with the microprocessor "Arduino"
 - Made for a college assignment
 - All components, codes and documentation are in this repository
 ![Project screenshot](Project/Poject_print.png)
